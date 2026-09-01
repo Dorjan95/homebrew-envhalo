@@ -4,7 +4,7 @@ cask "envhalo" do
 
   url "https://github.com/Dorjan95/homebrew-envhalo/releases/download/v#{version}/EnvHalo-#{version}.zip"
   name "EnvHalo"
-  desc "Ambient safety indicator for macOS development environments"
+  desc "Ambient safety indicator for development environments"
   homepage "https://github.com/Dorjan95/homebrew-envhalo"
 
   depends_on macos: :sonoma
