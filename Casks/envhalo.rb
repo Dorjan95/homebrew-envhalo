@@ -7,7 +7,7 @@ cask "envhalo" do
   desc "Ambient safety indicator for macOS development environments"
   homepage "https://github.com/Dorjan95/homebrew-envhalo"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "EnvHalo.app"
 
