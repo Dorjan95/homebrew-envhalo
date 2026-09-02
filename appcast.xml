@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>EnvHalo</title>
+        <item>
+            <title>0.2.0</title>
+            <pubDate>Thu, 03 Sep 2026 00:20:05 +0200</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>0.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/Dorjan95/homebrew-envhalo/releases/download/v0.2.0/EnvHalo-0.2.0.zip" length="4073037" type="application/octet-stream" sparkle:edSignature="+DekLgScq+FqB9/Z9YSOBMFpjCJbmGBy3uVLDh6hD+AyydZOU56R/dZTT/GwD/M1Cv+dMhXJ9rh20AABzAg/Aw=="></enclosure>
+        </item>
+    </channel>
+</rss><!-- sparkle-signatures:
+edSignature: D/SVGKMYLkKnIZXN3uKaCW9eFqcRt4kjyzj3TqrUhtal0ZWWuB65H2FGEIV7ZmxkTdiw5CBL4DzcDsvEbwgRDg==
+length: 1047
+-->
