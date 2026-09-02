@@ -8,7 +8,6 @@ cask "envhalo" do
   homepage "https://github.com/Dorjan95/homebrew-envhalo"
 
   auto_updates true
-
   depends_on macos: :sonoma
 
   app "EnvHalo.app"
