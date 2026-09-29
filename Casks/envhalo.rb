@@ -1,6 +1,6 @@
 cask "envhalo" do
-  version "0.2.0"
-  sha256 "d73af4aed57703a38687c620fe941e014faf997c029e139e96892172cd18669f"
+  version "0.2.1"
+  sha256 "41769d33e86cfd80f94252aa33945fb6c2fc3e6de84eae5059190fb741fe686b"
 
   url "https://github.com/Dorjan95/homebrew-envhalo/releases/download/v#{version}/EnvHalo-#{version}.zip"
   name "EnvHalo"
